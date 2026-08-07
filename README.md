@@ -1,10 +1,3 @@
-"""
-README CONTENT
-This file contains the README in Python string format.
-Copy the text below into README.md if needed.
-"""
-
-README = r"""
 # ApexPlanet Internship Task 1
 
 Python Data Analytics Internship Project
@@ -213,5 +206,3 @@ ApexPlanet Software Pvt. Ltd.
 
 Internship Task 1: Data Immersion & Wrangling
 """
-
-print(README)
