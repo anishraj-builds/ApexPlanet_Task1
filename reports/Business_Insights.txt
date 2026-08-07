@@ -1,0 +1,26 @@
+APEXPLANET DATA ANALYTICS PROJECT
+==================================================
+
+PROJECT SUMMARY
+------------------------------
+Total Orders : 992
+Total Revenue : ₹138,104,311.37
+Average Order Value : ₹139,218.06
+Highest Sale : ₹493,677.50
+Lowest Sale : ₹437.34
+
+BUSINESS INSIGHTS
+------------------------------
+Highest Revenue Category : Electronics
+Highest Revenue City : Patna
+Most Ordered Product : Mobile
+Most Common Customer City : Patna
+Average Customer Age : 41.37 years
+
+DATA QUALITY SUMMARY
+------------------------------
+Missing Values : 0
+Duplicate Rows : 0
+Duplicate Order_ID : 0
+Final Records : 992
+Final Columns : 18
